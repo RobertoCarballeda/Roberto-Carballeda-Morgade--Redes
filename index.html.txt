@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Laboratorio de Redes</title>
+</head>
+<body>
+    <h1>Laboratorio de Redes</h1>
+    
+    <h2>Información del Alumno</h2>
+    <p>Nombre: Roberto Carballeda Morgade</p>
+    <p>Correo: <a href="mailto:r.cmorgade@udc.es">r.cmorgade@udc.es</a></p>
+    
+    <p>Enlace a servicio DNS: <a href="https://freedns.afraid.org">Free DNS</a></p>
+</body>
+</html>
